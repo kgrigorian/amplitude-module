@@ -1,0 +1,13 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="0.1.0"></a>
+# 0.1.0 (2018-10-16)
+
+
+### Features
+
+* add module to append plugin to nuxt ([575b2df](https://github.com/Calvin-Huang/amplitude-module/commit/575b2df))
+* add plugin template ([a775146](https://github.com/Calvin-Huang/amplitude-module/commit/a775146))
+* add vue-amplitude dependency ([0561557](https://github.com/Calvin-Huang/amplitude-module/commit/0561557))
