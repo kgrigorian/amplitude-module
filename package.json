@@ -1,6 +1,6 @@
 {
   "name": "@nuxtjs/amplitude",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Amplitude module for Nuxtjs",
   "license": "MIT",
   "contributors": [
@@ -29,7 +29,9 @@
     "testEnvironment": "node",
     "collectCoverage": true
   },
-  "dependencies": {},
+  "dependencies": {
+    "vue-amplitude": "^1.0.3"
+  },
   "devDependencies": {
     "codecov": "latest",
     "eslint": "^5.6.1",
