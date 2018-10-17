@@ -12,7 +12,7 @@
 
 ## Features
 
-The module features
+Amplitude module for nuxtjs via `vue-amplitude` module.
 
 ## Setup
 - Add `@nuxtjs/amplitude` dependency using yarn or npm to your project
@@ -22,17 +22,17 @@ The module features
 {
   modules: [
     // Simple usage
-    '@nuxtjs/amplitude',
-
-    // With options
-    ['@nuxtjs/amplitude', { /* module options */ }],
+    '@nuxtjs/amplitude', { apiKey: '[Your amplitude API_KEY]' }
  ]
 }
 ```
 
-## Usage
-
-Module Description
+## Options
+|       |Prop        |
+|-------|------------|
+|apiKey |API Key of Amplitude|
+|userId (optional) |Initialize Amplitude instance with user id|
+|config (optional) |The rest configs you can use simply same to Amplitude-Javascript https://amplitude.zendesk.com/hc/en-us/articles/115001361248#settings-configuration-options|
 
 ## Development
 
