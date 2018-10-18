@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/amplitude",
+  "name": "nuxt-amplitude",
   "version": "0.1.0",
   "description": "Amplitude module for Nuxtjs",
   "license": "MIT",
