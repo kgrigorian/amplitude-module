@@ -1,6 +1,6 @@
 {
   "name": "nuxt-amplitude",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Amplitude module for Nuxtjs",
   "license": "MIT",
   "contributors": [
