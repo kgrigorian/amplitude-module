@@ -1,15 +1,15 @@
 {
-  "name": "nuxt-amplitude",
+  "name": "nuxt-amplitude-plugin",
   "version": "0.1.2",
   "description": "Amplitude module for Nuxtjs",
   "license": "MIT",
   "contributors": [
     {
-      "name": "Calvin Huang <calvin.peak@capslock.tw>"
+      "name": "Karen Grigorjan <karen.grigorjan@gmail.com>"
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/Calvin-Huang/amplitude-module",
+  "repository": "https://github.com/kgrigorian/amplitude-module",
   "publishConfig": {
     "access": "public"
   },
@@ -30,14 +30,15 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "vue-amplitude": "^1.0.3"
+    "vue-amplitude-js": "^1.0.4"
   },
   "devDependencies": {
     "codecov": "latest",
-    "eslint": "^5.6.1",
-    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint": "^7.4.0",
+    "request-promise-native": "^1.0.8",
+    "eslint-config-airbnb-base": "^14.2.0",
     "eslint-config-standard": "latest",
-    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jest": "latest",
     "eslint-plugin-node": "latest",
     "eslint-plugin-promise": "latest",

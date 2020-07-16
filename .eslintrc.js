@@ -1,17 +1,17 @@
 module.exports = {
   root: true,
   parserOptions: {
-    sourceType: 'module'
+    sourceType: 'module',
   },
   env: {
     browser: true,
     node: true,
-    jest: true
+    jest: true,
   },
   extends: 'airbnb-base',
   plugins: [
     'jest',
-    'vue'
+    'vue',
   ],
   rules: {
     // Allow paren-less arrow functions
@@ -21,10 +21,10 @@ module.exports = {
     // Allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     // Do not allow console.logs etc...
-    'no-console': 2
+    'no-console': 2,
   },
   globals: {
     'jest/globals': true,
-    jasmine: true
-  }
-}
+    jasmine: true,
+  },
+};
