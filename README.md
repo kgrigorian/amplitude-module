@@ -2,11 +2,8 @@
 
 [![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-amplitude/latest.svg?style=flat-square)](https://npmjs.com/package/nuxt-amplitude-plugin)
 [![npm](https://img.shields.io/npm/dt/nuxt-amplitude.svg?style=flat-square)](https://npmjs.com/package/nuxt-amplitude-plugin)
-[![Codecov](https://img.shields.io/codecov/c/github/Calvin-Huang/amplitude-module.svg?style=flat-square)](https://codecov.io/gh/Calvin-Huang/amplitude-module)
-[![Dependencies](https://david-dm.org/Calvin-Huang/amplitude-module/status.svg?style=flat-square)](https://david-dm.org/Calvin-Huang/amplitude-module)
-[![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
 
-> Amplitude module for Nuxtjs
+> Amplitude module for Nuxtjs.
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
