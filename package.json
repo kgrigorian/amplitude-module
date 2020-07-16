@@ -30,12 +30,12 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "vue-amplitude-js": "^1.0.4",
-    "request-promise-native": "^1.0.8"
+    "vue-amplitude-js": "^1.0.4"
   },
   "devDependencies": {
     "codecov": "latest",
     "eslint": "^7.4.0",
+    "request-promise-native": "^1.0.8",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-config-standard": "latest",
     "eslint-plugin-import": "^2.22.0",
