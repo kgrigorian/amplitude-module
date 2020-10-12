@@ -30,7 +30,7 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "vue-amplitude-js": "^1.0.4"
+    "vue-amplitude-js": "^1.0.5"
   },
   "devDependencies": {
     "codecov": "latest",
